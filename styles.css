@@ -16,4 +16,6 @@ p {
     color: #666;
 }
 
-
+.navbar-collapse {
+    transition: height .5s ease; /* Adjust the duration and easing to your liking */
+}
